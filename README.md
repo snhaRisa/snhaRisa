@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snhaRisa
-- 👀 I’m interested in web development & DSA
-- 🌱 I’m currently learning Front-End development. 
-- 💞️ I need to skill up first and then we can help save the world! 
+- 👀 I’m interested in developing programes which benefits the humankind. 
+- 🌱 I’m currently upskilling. 
+
 
 <!---
 snhaRisa/snhaRisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
