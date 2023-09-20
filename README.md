@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @snhaRisa
-- 👀 I’m interested in developing programes which benefits the humankind. 
+- 👀 I’m interested in Web Development. 
 - 🌱 I’m currently upskilling. 
 
 
